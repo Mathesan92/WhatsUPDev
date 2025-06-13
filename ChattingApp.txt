@@ -9,3 +9,5 @@ Author : Mathesan M
 3. Last seen code
 
 4. Attachments (Image, Videos, Documents)
+
+5. Hiding Last seen code
